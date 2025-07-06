@@ -1,18 +1,5 @@
-[
-  {
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jwisozk.fiveinarow",
-    "sha256_cert_fingerprint": "76:dd:b5:ff:4d:88:07:e9:53:f0:79:51:56:77:54:3f:01:d5:c4:ea:82:4d:68:66:21:30:42:5b:44:56:3f:bc"
-  }
-},
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jwisozk.fiveinarow",
-    "sha256_cert_fingerprint": "4a:44:f6:8b:1d:e1:b0:86:0e:d5:e0:ee:eb:31:cc:a0:92:2e:0c:c9:61:40:0f:7f:1d:00:ca:34:ad:f4:66:e2"
-  }
-}
-]
+  "target" : { "namespace": "android_app", "package_name": "com.jwisozk.fiveinarow",
+               "sha256_cert_fingerprints": ["76:dd:b5:ff:4d:88:07:e9:53:f0:79:51:56:77:54:3f:01:d5:c4:ea:82:4d:68:66:21:30:42:5b:44:56:3f:bc"] }
+}]
